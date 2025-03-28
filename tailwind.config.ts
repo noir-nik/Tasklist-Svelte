@@ -1,0 +1,1 @@
+F:/Temp/tailwind.config.ts
