@@ -67,7 +67,7 @@
 		}));
 	};
 
-	onMount(fetchTasks);
+	// onMount(fetchTasks);
 
 	const addTask = (task: Task) => {
 		console.log(task);

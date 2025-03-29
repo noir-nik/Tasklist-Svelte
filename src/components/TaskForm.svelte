@@ -7,7 +7,7 @@
 	let { addTask } = $props();
 
 	const onSubmit = () => {
-		if (title && body) {
+		if (title) {
 			addTask({ title, body });
 			title = '';
 			body = '';
